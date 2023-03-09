@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "mines",
+  "info": {
+    "singularName": "mine",
+    "pluralName": "mines",
+    "displayName": "mine"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "imgurl": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "price": {
+      "type": "integer"
+    }
+  }
+}

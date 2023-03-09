@@ -1,0 +1,7 @@
+.main{
+    margin: 10px;
+}
+.bestSeller,.oldSchool{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}

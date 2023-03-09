@@ -1,0 +1,43 @@
+.cart-Sec{
+    margin: 20px ;
+    display: flex;
+    justify-content: space-between;
+}
+.cart-main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.bill-sec{
+    border: 1px solid black;
+    padding: 20px;
+    margin: 0px 20px;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.game-selected{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.total{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.checkout-btn{
+    padding: 3px 10px ;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 10px;
+}
